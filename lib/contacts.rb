@@ -22,4 +22,4 @@ def remove_strawberry(contacts)
         binding.pry
       end
     end 
-  end 
+  
